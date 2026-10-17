@@ -1,0 +1,1 @@
+# OANDA_XAUGBP_GoldGBP
