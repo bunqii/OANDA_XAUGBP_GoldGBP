@@ -6,7 +6,7 @@
   "chunk_end": "2026-11-30",
   "parquet_file": "OANDA_XAUGBP_GoldGBP_1_2026-11-01_to_2026-11-30.parquet",
   "data_file": "OANDA_XAUGBP_GoldGBP_1_2026-11-01_to_2026-11-30.parquet",
-  "row_count": 432,
+  "row_count": 1930,
   "first_candle": {
     "time": 1793574240,
     "Time": "2026-11-01T23:04:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 51
   },
   "last_candle": {
-    "time": 1793600100,
-    "Time": "2026-11-02T06:15:00.000000000Z",
-    "open": 2921.064,
-    "high": 2921.064,
-    "low": 2920.138,
-    "close": 2920.87,
-    "volume": 486
+    "time": 1793693820,
+    "Time": "2026-11-03T08:17:00.000000000Z",
+    "open": 2912.038,
+    "high": 2912.817,
+    "low": 2911.407,
+    "close": 2912.817,
+    "volume": 346
   },
   "csv_file": "OANDA_XAUGBP_GoldGBP_1_2026-11-01_to_2026-11-30.parquet",
-  "csv_row_count": 432,
+  "csv_row_count": 1930,
   "csv_first_candle": {
     "time": 1793574240,
     "Time": "2026-11-01T23:04:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 51
   },
   "csv_last_candle": {
-    "time": 1793600100,
-    "Time": "2026-11-02T06:15:00.000000000Z",
-    "open": 2921.064,
-    "high": 2921.064,
-    "low": 2920.138,
-    "close": 2920.87,
-    "volume": 486
+    "time": 1793693820,
+    "Time": "2026-11-03T08:17:00.000000000Z",
+    "open": 2912.038,
+    "high": 2912.817,
+    "low": 2911.407,
+    "close": 2912.817,
+    "volume": 346
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-11-02T06:16:56.000000000Z",
-  "generated_at": "2026-11-02T06:16:56.000000000Z",
+  "verified_at": "2026-11-03T08:18:07.000000000Z",
+  "generated_at": "2026-11-03T08:18:07.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-11-01T00:00:00Z",
-        "to": "2026-11-02T06:16:00Z",
+        "from": "2026-11-02T06:10:00Z",
+        "to": "2026-11-03T08:18:00Z",
         "code": 200,
         "msg": "OK"
       }
